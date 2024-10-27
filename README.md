@@ -5,4 +5,4 @@
 # >git status
 # >git add test1.txt
 # >git commit -m "New file test1.txt added"
-# >git push
+# >git push origin main
